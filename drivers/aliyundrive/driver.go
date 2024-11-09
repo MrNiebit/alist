@@ -15,7 +15,7 @@ import (
 	"time"
 
 	"github.com/alist-org/alist/v3/internal/stream"
-
+    "github.com/go-resty/resty/v2"
 	"github.com/alist-org/alist/v3/drivers/base"
 	"github.com/alist-org/alist/v3/internal/conf"
 	"github.com/alist-org/alist/v3/internal/driver"
